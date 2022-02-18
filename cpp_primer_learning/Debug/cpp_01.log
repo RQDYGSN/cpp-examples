@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(519,5): warning MSB8028: 中间目录(Debug\)包含从另一个项目(cpp_01.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  cpp_02_composition.cpp
+cpp_02_composition.obj : error LNK2005: _main 已经在 cpp_01_class_and_object.obj 中定义
+C:\Users\Liu Qinghe\source\repos\cpp_01\Debug\cpp_primer_learning.exe : fatal error LNK1169: 找到一个或多个多重定义的符号
