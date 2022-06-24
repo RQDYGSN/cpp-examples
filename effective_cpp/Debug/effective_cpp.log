@@ -1,0 +1,5 @@
+﻿  ec_item02_more_const_enum_inline.cpp
+  ec_item24_use_more_non-member_functions.cpp
+  正在生成代码...
+ec_item24_use_more_non-member_functions.obj : error LNK2005: _main 已经在 ec_item02_more_const_enum_inline.obj 中定义
+G:\GitHub_repositories\cpp-examples\effective_cpp\Debug\effective_cpp.exe : fatal error LNK1169: 找到一个或多个多重定义的符号

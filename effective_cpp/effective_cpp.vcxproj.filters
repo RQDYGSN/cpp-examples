@@ -18,5 +18,8 @@
     <ClCompile Include="ec_item02_more_const_enum_inline.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="ec_item24_use_more_non-member_functions.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
